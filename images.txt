@@ -1,3 +1,2 @@
-mongo-express:latest
-redis:latest
-mongo:4.4
+redis-commander:latest
+
