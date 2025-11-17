@@ -1,1 +1,2 @@
 growthbook:latest
+mongo:latest
