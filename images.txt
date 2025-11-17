@@ -1,1 +1,2 @@
-xkand/istoreos
+growthbook:latest
+mongo:latest
