@@ -1,2 +1,2 @@
-growthbook:latest
-mongo:latest
+growthbook
+mongo
