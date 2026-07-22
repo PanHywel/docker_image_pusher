@@ -1,1 +1,6 @@
-paddlecloud/paddleocr
+registry-1.docker.io          # Docker 基础镜像 ubuntu:22.04
+archive.ubuntu.com            # apt 主源
+security.ubuntu.com           # apt 安全更新
+deb.nodesource.com            # Node.js 20.x 安装脚本 + apt 源
+github.com                    # audiowmark 源码克隆
+registry.npmjs.org            # npm 包 (express, multer 等)
