@@ -1,1 +1,1 @@
-ubuntu:22.04
+ghcr.io/kiwi233333/jiwu-chat-core:latest
