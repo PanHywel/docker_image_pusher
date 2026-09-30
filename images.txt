@@ -1,1 +1,1 @@
-ghcr.io/kiwi233333/jiwu-chat-core:latest
+gristlabs/grist:latest
